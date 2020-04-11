@@ -1,2 +1,2 @@
 # RUST
-Projects for mastering RUST
+My projects for mastering RUST
